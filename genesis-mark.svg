@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="330 50 1030 880" width="1030" height="880" fill="none">
+  <style>
+    .edge { stroke: #f1f1f1; stroke-width: 14; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    .cerebellum { stroke: #f1f1f1; stroke-width: 10; stroke-linecap: round; stroke-linejoin: round; fill: none; }
+    .node { fill: #f1f1f1; stroke: #ececec; stroke-width: 3; }
+  </style>
+  <g class="edge">
+    <path d="M712 95 L948 95 L1105 175 L1222 283 L1312 418 L1318 577 L1245 675"/>
+    <path d="M712 95 L560 168 L442 270 L368 418 L405 540 L495 603 L600 603 L657 678 L788 708"/>
+    <path d="M712 95 L840 222 L948 95"/>
+    <path d="M712 95 L637 257 L840 222"/>
+    <path d="M560 168 L637 257"/>
+    <path d="M840 222 L948 290 L948 95"/>
+    <path d="M948 290 L1105 175 L1098 375 L1222 283"/>
+    <path d="M948 290 L1098 375"/>
+    <path d="M442 270 L543 322 L637 257"/>
+    <path d="M368 418 L543 322 L712 430 L637 257"/>
+    <path d="M543 322 L512 495"/>
+    <path d="M368 418 L512 495 L405 540"/>
+    <path d="M512 495 L712 430 L840 222"/>
+    <path d="M512 495 L600 603"/>
+    <path d="M712 430 L948 290"/>
+    <path d="M712 430 L948 462 L948 290"/>
+    <path d="M948 462 L1098 375 L1312 418"/>
+    <path d="M1098 375 L1208 522 L1312 418"/>
+    <path d="M948 462 L1208 522"/>
+    <path d="M712 430 L775 572 L600 603"/>
+    <path d="M775 572 L657 678"/>
+    <path d="M775 572 L788 708"/>
+    <path d="M775 572 L948 462"/>
+    <path d="M775 572 L968 603 L1208 522"/>
+    <path d="M968 603 L788 708"/>
+    <path d="M968 603 L1192 628 L1208 522"/>
+    <path d="M1192 628 L1245 675"/>
+    <path d="M1192 628 L1318 577"/>
+  </g>
+  <g class="cerebellum">
+    <path d="M788 708 Q860 715 960 690 Q1110 645 1245 675"/>
+    <path d="M1240 690 C1215 770 1150 818 1090 818 C1030 818 990 790 965 750 C990 715 1070 690 1130 695 Q1190 700 1230 715"/>
+    <path d="M985 745 Q1070 760 1170 780"/>
+    <path d="M1000 765 Q1060 790 1120 806"/>
+    <path d="M865 712 L930 785 L1000 885"/>
+    <path d="M965 750 L1000 885"/>
+  </g>
+  <g class="node">
+    <circle cx="712" cy="95" r="24"/><circle cx="948" cy="95" r="24"/>
+    <circle cx="560" cy="168" r="24"/><circle cx="1105" cy="175" r="24"/>
+    <circle cx="442" cy="270" r="24"/><circle cx="1222" cy="283" r="24"/>
+    <circle cx="368" cy="418" r="24"/><circle cx="1312" cy="418" r="24"/>
+    <circle cx="405" cy="540" r="24"/><circle cx="1318" cy="577" r="24"/>
+    <circle cx="600" cy="603" r="22"/><circle cx="657" cy="678" r="24"/>
+    <circle cx="788" cy="708" r="22"/><circle cx="1245" cy="675" r="24"/>
+    <circle cx="1192" cy="628" r="22"/>
+    <circle cx="840" cy="222" r="22"/><circle cx="637" cy="257" r="20"/>
+    <circle cx="948" cy="290" r="22"/><circle cx="543" cy="322" r="20"/>
+    <circle cx="1098" cy="375" r="22"/><circle cx="712" cy="430" r="20"/>
+    <circle cx="512" cy="495" r="22"/><circle cx="948" cy="462" r="22"/>
+    <circle cx="1208" cy="522" r="22"/><circle cx="775" cy="572" r="22"/>
+    <circle cx="968" cy="603" r="22"/><circle cx="1000" cy="885" r="24"/>
+  </g>
+</svg>
